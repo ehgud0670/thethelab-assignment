@@ -1,2 +1,1 @@
-# thethelab_assignment
-thethelab_assignment
+# thethelab-assignment
